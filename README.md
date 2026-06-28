@@ -29,10 +29,10 @@ This project demonstrates the practical use of modern Generative AI technologies
 
 The system supports four departments:
 
-| Sales | Product information, subscription plans, pricing |
-| Technical Support | Installation, application errors, login issues, configuration |
-| Billing | Payments, invoices, refunds |
-| Account | Password reset, profile update, account activation/deactivation |
+ Sales - Product information, subscription plans, pricing 
+ Technical Support - Installation, application errors, login issues, configuration 
+ Billing - Payments, invoices, refunds 
+ Account - Password reset, profile update, account activation/deactivation 
 
 ---
 
