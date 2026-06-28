@@ -71,7 +71,7 @@ The following requests require human approval before a response is sent:
 Clone the repository.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/SHIVS-02/Customer-Support-Automation/tree/main
 ```
 
 Open the project directory.
